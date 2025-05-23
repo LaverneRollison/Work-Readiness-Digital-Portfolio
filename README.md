@@ -28,9 +28,9 @@ In this portfolio I have gathered my experience from the Work Readiness Training
 
 ### Reflection (STAR method):
 
-**S:** I had to evaulate my skills and interests.Studying in the ICT field and having work experience in the field also broadens my skills and knowledge.
+**S:** I had to evaulate my skills and interests. Studying in the ICT field and having work experience in the field also broadens knowledge and strengthens my skills.
 
-**T:** I needed to identify which skills I’m strongest to help align with a future career.
+**T:** I needed to identify which skills are my strongest to help align with a future career.
 
 **A:** I reflected on my performance in projects I did with HTML, CSS, Java, and MySQL. 
 
