@@ -6,7 +6,8 @@ In this portfolio I have gathered my experience from the Work Readiness Training
 
 ## Career Counselling
 
-### Evidence![Career Counselling](https://github.com/user-attachments/assets/36d019c3-897b-4e3c-acd9-32faf9b05380)
+### Evidence![Career Counselling](https://github.com/user-attachments/assets/62b281cf-9f1a-427c-b323-b950b56855e2)
+
 
 ### Reflection (STAR method):
 **S:** I have taken a Career Counselling module within the Work Readiness program.
