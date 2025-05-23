@@ -23,7 +23,8 @@ In this portfolio I have gathered my experience from the Work Readiness Training
 
 ### Skills and Interest
 
-### Evidence![Skills and Interests](https://github.com/user-attachments/assets/dda5b6c0-1bf0-441c-aeff-84fb06e19161)
+### Evidence![Skills and Interests](https://github.com/user-attachments/assets/aad44e2e-2a51-4081-8661-313176de9d29)
+
 
 ### Reflection (STAR method):
 
@@ -39,7 +40,8 @@ In this portfolio I have gathered my experience from the Work Readiness Training
 ---
 ### Personality Assessment
 
-### Evidence![Personality Assessment](https://github.com/user-attachments/assets/711b95f4-d725-4046-bbd6-fe45f6e25124)
+### Evidence![Personality Assessment](https://github.com/user-attachments/assets/a8a4fc06-4505-4167-bb77-c63e5b24e8ec)
+
 
 ### Reflection (STAR method)
 
@@ -55,7 +57,8 @@ In this portfolio I have gathered my experience from the Work Readiness Training
 ---
 ### Create a CV
 
-### Evidence ![Creating a CV](https://github.com/user-attachments/assets/58a1b76b-3d7d-4485-a155-9e58e81beb53)
+
+### Evidence ![Creating a CV](https://github.com/user-attachments/assets/72ff07c8-fa1b-43d3-9ed9-e664ed96b646)
 
 ### Reflection (STAR method)
 
@@ -71,7 +74,9 @@ In this portfolio I have gathered my experience from the Work Readiness Training
 ---
 ### CV Submission
 
-### Evidence ![CV Submission](https://github.com/user-attachments/assets/794e8beb-aa97-4dae-8a5f-d3cd2918a030)
+
+### Evidence![CV Submission](https://github.com/user-attachments/assets/ff53b53a-9597-4055-9915-892de133390d)
+
 
 ### Reflection (STAR method)
 
